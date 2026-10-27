@@ -1,0 +1,16 @@
+echo - coloca o texto que vc quer (echo ... >> diretorio) rapido linux.txt
+
+pwd — mostra o diretório atual
+ls — lista arquivos e pastas
+cd — muda de diretório
+mkdir — cria uma pasta
+touch — cria um arquivo vazio
+cat — mostra o conteúdo de um arquivo
+cp — copia arquivos
+mv — move ou renomeia arquivos
+chmod — modifica permissões
+ps — mostra processos
+free -h — mostra a memória
+df -h — mostra o armazenamento
+ip addr — mostra interfaces e endereços de rede
+ping — testa a conectividade rapido linux.txt
